@@ -46,8 +46,6 @@ The objective of this project is to develop an interactive Sales Dashboard that 
 - Dashboard Interaction <a href="https://github.com/meeran147-sketch/Excel-Dashboard/blob/main/Project_1.png">View Dashboard</a>
 
 ### Process 
-
-# Data Preparation
 - Collected sales data, cleaned missing values, standardized formats, and prepared the dataset for analysis.
 - Created Pivot Tables and Pivot Charts to analyze sales, profit, quantity, and order trends across years, regions, and product sub-categories.
 - Designed an interactive dashboard using KPI cards, charts, slicers, and timelines to provide dynamic business insights and support decision-making.
